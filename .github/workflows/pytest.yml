@@ -3,7 +3,7 @@ name: Continuous Integration - UnitTesting
 on:  
   push:
     branches:
-      - lokesh
+      - dev
 
 jobs:
   build:
