@@ -1,5 +1,3 @@
-import boto3
-import yaml
 import streamlit as st
 from io import BytesIO
 import logging

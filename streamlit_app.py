@@ -3,9 +3,7 @@
 #######################################################################################################################
 import sqlite3
 import boto3
-import yaml
 import streamlit as st
-import pandas as pd
 from functions import get_url_geos, download_and_upload_s3_file, get_link_goes
 import logging
 
