@@ -26,5 +26,9 @@ def get_url_nextrad(file_name):
         pass
 
 
-print(f"Calling the get_url_geos function: {get_url_geos('OR_ABI-L1b-RadC-M6C01_G18_s20230050416177_e20230050418555_c20230050418597.nc')}")
-print(f"Calling the get_url_nextrad function: {get_url_nextrad('KAKQ20050101_000354.gz')}")
+print(
+    f"Calling the get_url_geos function: {get_url_geos('OR_ABI-L1b-RadC-M6C01_G18_s20230050416177_e20230050418555_c20230050418597.nc')}"
+)
+print(
+    f"Calling the get_url_nextrad function: {get_url_nextrad('KAKQ20050101_000354.gz')}"
+)
