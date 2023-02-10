@@ -111,6 +111,7 @@ Sivaranjani S | 002742197 | 25%
 ## Link to the Live Applications
 - Streamlit Application : https://bigdataia-spring2023-team-04-bigdataia-assignme-geos-18-tz9ba6.streamlit.app/
 - Great Expectations : https://bigdataia-spring2023-team-04.github.io/BigDataIA-Assignment-01/
+- Codelabs : https://codelabs-preview.appspot.com/?file_id=1l3_WHO_aDCd7qCGHBAhEzLPPy9-m4QAEHFXjKxvKwqo#1
 
 ## Link to S3 Buckets
 - GEOS S3 : https://noaa-goes18.s3.amazonaws.com/index.html#ABI-L1b-RadC/
