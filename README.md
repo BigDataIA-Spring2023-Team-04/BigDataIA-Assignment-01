@@ -118,8 +118,3 @@ Sivaranjani S | 002742197 | 25%
 
 ## Logs Example
 ![image](https://user-images.githubusercontent.com/90572559/218146471-7490aece-3b8a-411f-8bfb-c6df680967a2.png)
-
-
-
-
-
